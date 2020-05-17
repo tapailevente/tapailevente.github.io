@@ -1,0 +1,42 @@
+footer{
+    padding: 0;
+    margin: 0;
+    min-width: 700px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: whitesmoke;
+    display: block;
+    padding: 5px 20px;
+    font-size: 20px;
+    line-height: 30px;
+
+    transition: 0.5s ease-in-out;
+}
+
+#menu a:hover{
+    background-color: whitesmoke;
+    color: black;
+    
+}
+
+
+
+
+
+#menu ul{
+    list-style: none;
+
+}
+
+#menu li{
+    display: inline-block;
+
+}
+
+#menu{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

@@ -1,0 +1,71 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+}
+
+body{
+    background-image: url(img/weblaphatterkep_blur2.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.container{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+    background-color:rgb(256,256,256, 0.5);
+    width: 25%;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+   
+
+}
+
+.container a {
+    text-decoration: none;
+
+}
+
+.container p{
+    font-weight: bold;
+}
+
+.fa{
+    padding: 15px;
+    font-size: 30px;
+    width: 13px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa-facebook{
+    background:black;
+  color: white;
+}
+
+.fa-instagram{
+    background-color: black;
+    color: white;
+}
+
+.fa-phone{
+ background-color: black;
+ color: white;
+}
+
+.email{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    font-size: 20px;
+    width: 13px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
